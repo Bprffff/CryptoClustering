@@ -18,3 +18,5 @@ https://hvplot.holoviz.org/reference/pandas/line.html
 
 #Determining The Optimal Number Of Clusters: 3 Must Know Methods
 https://www.datanovia.com/en/lessons/determining-the-optimal-number-of-clusters-3-must-know-methods/#:~:text=The%20optimal%20number%20of%20clusters%20k%20is%20the%20one%20that,for%20different%20values%20of%20k.
+
+#Module 19 homework assignments
